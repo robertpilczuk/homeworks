@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1fdb421-5d5e-420b-993b-c3034f1a71f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikOptymalnejTempPiwa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikZCelc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikZFarren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikZKelv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/PrzelicznikZRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerterAbstract/ZadanieTemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerter/PrzelicznikOptymalnejTempPiwa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerter/PrzelicznikOptymalnejTempPiwa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerter/PrzelicznikService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PraceDomowe/src/main/java/PracaDomowaZadanieKonwerter/PrzelicznikService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/CommandReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/CommandReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/Declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/Declaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/DeclarationManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/main/java/collectorsTools/DeclarationManagement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Test" />
+  </component>
+  <component name="ProjectId" id="1XLCeDUKqozrIjtvd1vkx027NGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectorsTools.Main" />
+      <module name="Test (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectorsTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1fdb421-5d5e-420b-993b-c3034f1a71f4" name="Default Changelist" comment="" />
+      <created>1580816080494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580816080494</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#Project_Structure" timestamp="1580888171776">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#Project_Structure/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580888171776" />
+    <state x="499" y="165" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580892464008">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="165" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580892464008" />
+    <state x="2660" y="235" key="FileChooserDialogImpl" timestamp="1580816190621">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="235" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580816190621" />
+    <state width="1492" height="168" key="GridCell.Tab.0.bottom" timestamp="1580904650769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="168" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580904650769" />
+    <state width="1492" height="168" key="GridCell.Tab.0.center" timestamp="1580904650769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="168" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580904650769" />
+    <state width="1492" height="168" key="GridCell.Tab.0.left" timestamp="1580904650769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="168" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580904650769" />
+    <state width="1492" height="168" key="GridCell.Tab.0.right" timestamp="1580904650769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="168" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580904650769" />
+    <state width="1492" height="482" key="GridCell.Tab.1.bottom" timestamp="1580891542542">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="482" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580891542542" />
+    <state width="1492" height="482" key="GridCell.Tab.1.center" timestamp="1580891542542">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="482" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580891542542" />
+    <state width="1492" height="482" key="GridCell.Tab.1.left" timestamp="1580891542541">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="482" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580891542541" />
+    <state width="1492" height="482" key="GridCell.Tab.1.right" timestamp="1580891542542">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="482" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1580891542542" />
+    <state x="2381" y="168" key="SettingsEditor" timestamp="1580817372417">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="168" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580817372417" />
+    <state x="2576" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1580817386921">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2576" y="350" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580817386921" />
+  </component>
+</project>
